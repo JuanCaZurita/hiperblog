@@ -1,3 +1,9 @@
+
+
+OJO
+
+Nuevas lineas
+
 Este es un primer ejemplo de git
 
 Se colocara un archivo desde init
