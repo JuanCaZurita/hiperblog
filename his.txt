@@ -1,0 +1,7 @@
+Este es un primer ejemplo de git
+
+Se colocara un archivo desde init
+
+los primeros pasos en git 
+
+git add,
