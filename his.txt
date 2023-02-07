@@ -22,3 +22,5 @@ git config --global user.name "JuanCZurita"
 git config --global user.email "juan_carlos_zurita@yahoo.com" 
 
 git log his.txt
+
+editor vim
