@@ -4,4 +4,19 @@ Se colocara un archivo desde init
 
 los primeros pasos en git 
 
-git add,
+git init
+
+git add his.txt
+
+git rm -cached his.txt
+
+git add his.txt
+
+git config
+
+git config --list
+
+git config --list --show-origin
+
+git config --global user.name "JuanCZurita"
+git config --global user.email "juan_carlos_zurita@yahoo.com" 
