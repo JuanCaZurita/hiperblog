@@ -29,4 +29,9 @@ git config --global user.email "juan_carlos_zurita@yahoo.com"
 
 git log his.txt
 
+
+
 editor vim
+
+Ahora agrero al final de las lineas, acabo de utilizar "o" para adicionar
+una linea despues de la linea actual
